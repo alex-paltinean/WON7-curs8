@@ -1,0 +1,4 @@
+- interface Animal with getSound() returning a String
+- interface Feline with isPurring() returning a boolean
+- class Cat extending Feline and purrs
+- class Lion extending Feline and doesn't purrs
